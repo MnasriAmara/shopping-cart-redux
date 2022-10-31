@@ -1,0 +1,12 @@
+.addprod{
+    height: 35px ; 
+     width: 156px ;
+     margin:0;
+     border:none;
+     cursor: pointer;
+     background-color: #13cecb83 ;
+    font-size: 17px;
+    font-weight: 700; 
+    border-radius: 7px;
+    color:rgb(236, 153, 53)
+}
